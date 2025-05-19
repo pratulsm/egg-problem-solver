@@ -1,1 +1,1 @@
-/usr/bin/g++ CMakeFiles/egg_problem_benchmarks.dir/benchmarks/egg_problem_benchmark.cpp.o -o egg_problem_benchmarks  libegg_problem_lib.a /usr/lib/x86_64-linux-gnu/libbenchmark_main.a /usr/lib/x86_64-linux-gnu/libbenchmark.so.1.8.3 
+/usr/bin/g++ -g CMakeFiles/egg_problem_benchmarks.dir/benchmarks/egg_problem_benchmark.cpp.o -o egg_problem_benchmarks  libegg_problem_lib.a /usr/lib/x86_64-linux-gnu/libbenchmark_main.a /usr/lib/x86_64-linux-gnu/libbenchmark.so.1.8.3 

@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -I/home/pratuls/CXX/egg_problem/egg-problem-solver/src
 
-CXX_FLAGS = -std=gnu++23
+CXX_FLAGS = -g -std=gnu++23
 

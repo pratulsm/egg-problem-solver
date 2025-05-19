@@ -1,1 +1,1 @@
-/usr/bin/g++ CMakeFiles/egg_problem_tests.dir/tests/egg_problem_test.cpp.o -o egg_problem_tests  libegg_problem_lib.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 
+/usr/bin/g++ -g CMakeFiles/egg_problem_tests.dir/tests/egg_problem_test.cpp.o -o egg_problem_tests  libegg_problem_lib.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 
