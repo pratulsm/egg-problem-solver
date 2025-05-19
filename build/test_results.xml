@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="2" failures="0" disabled="0" errors="0" time="0.001" timestamp="2025-05-19T14:11:16.535" name="AllTests">
+  <testsuite name="EggProblemTest" tests="2" failures="0" disabled="0" skipped="0" errors="0" time="0.001" timestamp="2025-05-19T14:11:16.535">
+    <testcase name="TestSolveDP" file="/home/pratuls/CXX/egg_problem/egg-problem-solver/tests/egg_problem_test.cpp" line="9" status="run" result="completed" time="0." timestamp="2025-05-19T14:11:16.535" classname="EggProblemTest" />
+    <testcase name="TestSolveRecursive" file="/home/pratuls/CXX/egg_problem/egg-problem-solver/tests/egg_problem_test.cpp" line="16" status="run" result="completed" time="0.001" timestamp="2025-05-19T14:11:16.535" classname="EggProblemTest" />
+  </testsuite>
+</testsuites>
